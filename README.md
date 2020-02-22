@@ -1,5 +1,5 @@
 # sharepoint-accelerator
-SharePoint JavaScript project using jQuery, LoDash, Bootstrap, Rest Api, Toaster, and some of our very own code.
+SharePoint JavaScript project using jQuery, LoDash, Bootstrap, Rest Api, Toaster, some other libarys and and our very own code.
 
 The necessary plumbing to interact with SharePoint Rest Api is set forth.
 
